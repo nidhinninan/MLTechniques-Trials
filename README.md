@@ -5,8 +5,8 @@
 This repository contains a collection of machine learning projects, implementations, and educational resources developed during academic coursework and personal exploration. These a just a few of my implemation that show up on my Github if I remember to update my Github page.
 
 ## 📋 🧠 Machine Learning Projects
-1. [Fisher's Linear Discriminant Analysis (LDA) Implementation](/fisher-linear-discrimant/README.md)
-2. [ID3 Algorithm](/id3/README.md)
+1. [Fisher's Linear Discriminant Analysis (LDA) Implementation](/Fisher%20Linear%20Discrimant/README.md)
+2. [ID3 Algorithm](/ID3/README.md)
 3. [K-Mean Clustering](/K_Mean%20Clustering/README.md)
    
 ## 📚 Project Categories
