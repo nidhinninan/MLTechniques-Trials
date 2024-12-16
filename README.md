@@ -1,5 +1,11 @@
 # Fisher's Linear Discriminant Analysis (LDA) Implementation
 
+## 📋 Table of Contents
+1. [Fisher's Linear Discriminant Analysis (LDA) Implementation](#Fisher's Linear Discriminant Analysis (LDA) Implementation)
+2. [🎯 Problem Statement](#problem-statement)
+
+# Fisher's Linear Discriminant Analysis (LDA) Implementation
+
 ## Overview
 This project demonstrates the implementation of Fisher's Linear Discriminant Analysis (LDA) for two-class classification using Python and NumPy. The implementation provides a comprehensive analysis of class separation and optimal projection.
 
