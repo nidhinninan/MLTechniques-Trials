@@ -57,7 +57,7 @@ After running the algorithm:
    ```
 2. Run the Python script:
    ```bash
-   python kmeans_1d.py
+   python K_mean_Clustering.py
    ```
 3. View the output:
    - Initial and updated cluster means.
