@@ -7,7 +7,7 @@ This repository contains a collection of machine learning projects, implementati
 ## 📋 🧠 Machine Learning Projects
 1. [Fisher's Linear Discriminant Analysis (LDA) Implementation](/fisher-linear-discrimant/README.md)
 2. [ID3 Algorithm](/id3/README.md)
-3. [K-Mean Clustering](/k_mean_clustering/README.md)
+3. [K-Mean Clustering](/K_Mean%20Clustering/README.md)
    
 ## 📚 Project Categories
 - Supervised Learning
